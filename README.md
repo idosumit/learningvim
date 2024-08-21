@@ -29,6 +29,12 @@ Currently doing the [kickstart.vim](https://github.com/idosumit/kickstart.nvim) 
   - `d$`: Delete whatever it is to the end of the line.
   - `2d`: Delete 2 lines.
 
+- Copying & Pasting (steps)
+  > Note: `v` is visual mode and `V` is visual line mode.
+  1. Press `v` or `V` & move the cursor to the end of where I wanna copy or cut. _(There's also the `<ctrl>+v` option to enter visual block mode. but I think it's not as important to me, personally.)_
+  2. Press `y` to copy or `d` to cut.
+  3. Take the cursor wherever I wanna paste and press `P`.
+
 ---
 
 ## Additional Materials
