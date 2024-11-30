@@ -10,8 +10,6 @@ A repository for storing my vim & vimscript study notes.
 
 Currently doing the [kickstart.vim](https://github.com/idosumit/kickstart.nvim) repository's `Tutor`.
 
-> **On line 290.**
-
 #### Learnings
 
 - Moving
